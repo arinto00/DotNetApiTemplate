@@ -1,0 +1,12 @@
+/Users/arinto/Documents/DotNetApiTemplate/src/ApiTemplate.Domain/bin/Debug/net9.0/ApiTemplate.Domain.deps.json
+/Users/arinto/Documents/DotNetApiTemplate/src/ApiTemplate.Domain/bin/Debug/net9.0/ApiTemplate.Domain.dll
+/Users/arinto/Documents/DotNetApiTemplate/src/ApiTemplate.Domain/bin/Debug/net9.0/ApiTemplate.Domain.pdb
+/Users/arinto/Documents/DotNetApiTemplate/src/ApiTemplate.Domain/obj/Debug/net9.0/ApiTemplate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arinto/Documents/DotNetApiTemplate/src/ApiTemplate.Domain/obj/Debug/net9.0/ApiTemplate.Domain.AssemblyInfoInputs.cache
+/Users/arinto/Documents/DotNetApiTemplate/src/ApiTemplate.Domain/obj/Debug/net9.0/ApiTemplate.Domain.AssemblyInfo.cs
+/Users/arinto/Documents/DotNetApiTemplate/src/ApiTemplate.Domain/obj/Debug/net9.0/ApiTemplate.Domain.csproj.CoreCompileInputs.cache
+/Users/arinto/Documents/DotNetApiTemplate/src/ApiTemplate.Domain/obj/Debug/net9.0/ApiTemplate.Domain.sourcelink.json
+/Users/arinto/Documents/DotNetApiTemplate/src/ApiTemplate.Domain/obj/Debug/net9.0/ApiTemplate.Domain.dll
+/Users/arinto/Documents/DotNetApiTemplate/src/ApiTemplate.Domain/obj/Debug/net9.0/refint/ApiTemplate.Domain.dll
+/Users/arinto/Documents/DotNetApiTemplate/src/ApiTemplate.Domain/obj/Debug/net9.0/ApiTemplate.Domain.pdb
+/Users/arinto/Documents/DotNetApiTemplate/src/ApiTemplate.Domain/obj/Debug/net9.0/ref/ApiTemplate.Domain.dll

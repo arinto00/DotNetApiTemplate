@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gVmaJ/oJZh9n9CT10uS8/UBUL7qEMuLOOI98hP8gqAQ=",
+  "Source": "ApiTemplate.API",
+  "BasePath": "_content/ApiTemplate.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
