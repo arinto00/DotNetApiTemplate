@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiTemplate.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c49569e475f6b8cf074c372c39dd01295b6b2e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57d6c56163a1923e9664c6f62cc1a1fe148e05f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiTemplate.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiTemplate.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
